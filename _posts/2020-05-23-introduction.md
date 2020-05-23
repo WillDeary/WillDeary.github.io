@@ -16,12 +16,16 @@ I am a computer science student from Kings College London. I always had a passio
 a child, in fact my mother tells me the only reason I learnt to read as a child was because i wanted to play Monkey 
 Island (probably not a game for a young child but oh well...).  
 When I turned 18 I had the opportunity to move to London to pursue my fencing training with the British national team
-being funded via UKSport. This was a brilliant time for me, moving to London, training "full-time" and almost
+being funded via UKSport. So I delayed going to university and jumped upon this chance to train full-time.  
+This was a brilliant time for me, moving to London, training "full-time" and almost
 living by myself. I say almost because I was very fortunate for a lovely woman to let me stay in her house 
 while i was training, though she was extremely busy so for the most part I was by myself.  
 So this dream of being a full-time athlete... Let me tell you, it gets real boring. We trained 5 days a week
 and most of the time it was 9am-3pm. This gave me most of the afternoon and the evening free. At 18 what 
 excitement this was, 7 hours free to play computer games! Great! Well, no, after a few months of playing computer 
 games non-stop, it gets a little dull. So that was how I ended up teaching myself how to program. I think this 
-bewildered my Father as he had been trying to teach me how to program for years, and i had no interest in it.. Oops.
+bewildered my Father as he had been trying to teach me how to program for years, and I had no interest in it.. Oops.  
+So here I was learning how to make very very basic computer games and websites. So, i thought why don't I do this
+for my degree. (I had originally applied for aeronautical engineering. :sleeping:)
+
   
