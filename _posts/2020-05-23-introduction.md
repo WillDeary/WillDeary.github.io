@@ -47,7 +47,7 @@ the importance of having a close knit team environment and how that can lead to 
 train with has already qualified for the Olympics.
 
 With my now several years of programming experience, my old fencing coach pitched an idea to me on how we could 
-improve how physical education and use health & wellbeing to monitor children at schools. That was how we created 
+improve physical education and use health & wellbeing to monitor children at schools. That was how we created 
 [Record Of Fitness](https://www.recordoffitness.com).  
 Then during the lockdown we stripped down Record Of Fitness (ROF) and created a lite version for everyone to use 
 in lockdown. [BBFit](https://www.recordoffitness.com/bbfit).  
