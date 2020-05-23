@@ -26,6 +26,6 @@ excitement this was, 7 hours free to play computer games! Great! Well, no, after
 games non-stop, it gets a little dull. So that was how I ended up teaching myself how to program. I think this 
 bewildered my Father as he had been trying to teach me how to program for years, and I had no interest in it.. Oops.  
 So here I was learning how to make very very basic computer games and websites. So, i thought why don't I do this
-for my degree. (I had originally applied for aeronautical engineering. :sleeping:)
+for my degree. (I had originally applied for aeronautical engineering. :sleeping:).
 
   
