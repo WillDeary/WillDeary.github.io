@@ -102,8 +102,8 @@ author:
 # Footer Links
 footer_links:
   - title: Instagram
-      url: https://instagram.com/WillDeary
-      icon: fab fa-instagram
+    url: https://instagram.com/willdeary
+    icon: fab fa-instagram
   - title: GitHub
     url: https://github.com/WillDeary
     icon: fab fa-github-square
