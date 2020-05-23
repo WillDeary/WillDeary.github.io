@@ -39,7 +39,7 @@ year off. What a shame...
 
 
 Now I live and train in Germany, until the Olympic cycle is over. This was supposed to be in April, however Corona 
-struck a few weeks before the last Olympic qualifying event, and now the who qualifying period has been put 
+struck a few weeks before the last Olympic qualifying event, and now the whole qualifying period has been put 
 on hold for a year. So when the virus settles down I'll be back in Germany training with the guys there. This experience 
 has been brilliant. Firstly, living in another country not being able to speak the language was something I never 
 thought I would experience. Secondly, I have learnt a lot by training with the Germans, and it has shown me 
@@ -47,7 +47,7 @@ the importance of having a close knit team environment and how that can lead to 
 train with has already qualified for the Olympics.
 
 With my now several years of programming experience, my old fencing coach pitched an idea to me on how we could 
-improve how physical education and use health & wellbeing to monitor children at schools. That was how we created 
+improve physical education and use health & wellbeing to monitor children at schools. That was how we created 
 [Record Of Fitness](https://www.recordoffitness.com).  
 Then during the lockdown we stripped down Record Of Fitness (ROF) and created a lite version for everyone to use 
 in lockdown. [BBFit](https://www.recordoffitness.com/bbfit).  
