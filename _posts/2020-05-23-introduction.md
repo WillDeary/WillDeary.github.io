@@ -39,7 +39,7 @@ year off. What a shame...
 
 
 Now I live and train in Germany, until the Olympic cycle is over. This was supposed to be in April, however Corona 
-struck a few weeks before the last Olympic qualifying event, and now the who qualifying period has been put 
+struck a few weeks before the last Olympic qualifying event, and now the whole qualifying period has been put 
 on hold for a year. So when the virus settles down I'll be back in Germany training with the guys there. This experience 
 has been brilliant. Firstly, living in another country not being able to speak the language was something i never 
 thought i would experience. Secondly, I have learnt a lot by training with the Germans, and it has shown me 
