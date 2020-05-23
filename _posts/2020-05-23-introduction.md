@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "Introduction - Who am I?"
 date: 2020-05-23T15:30:00-04:00
 ---
 
@@ -54,7 +54,9 @@ in lockdown. [BBFit](https://www.recordoffitness.com/bbfit).
 Creating these two apps taught me a tremendous amount on how web applications work, and creating a good work 
 environment, without getting too distracted with life and the many things it throws at you. 
 I am a strong believer of use what time you have wisely, and really, this lockdown is the perfect time for 
-me to finish as much of ROF as I can.
+me to finish as much of Record Of Fitness as I can.
+
+
 
 
 
