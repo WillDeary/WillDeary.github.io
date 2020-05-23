@@ -90,17 +90,20 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
+  name: William Deary
+  picture: /images/William_dar)blue.svg
   email:
   twitter:
   links:
-    - title:
-      url:
-      icon:
+    - title: instagram
+      url: https://instagram.com/WillDeary
+      icon: fab fa-instagram
 
 # Footer Links
 footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+  - title: Instagram
+      url: https://instagram.com/WillDeary
+      icon: fab fa-instagram
+    - title: GitHub
+    url: https://github.com/WillDeary
+    icon: fab fa-github-square
