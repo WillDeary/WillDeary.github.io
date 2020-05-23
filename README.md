@@ -311,7 +311,7 @@ After creating a `Gemfile` and installing the theme you'll need to add and edit 
 * [`_config.yml`](_config.yml)
 * [`/_data/navigation.yml`](_data/navigation.yml)
 * [`/_data/text.yml`](_data/text.yml)
-* [`index.md`](index.md)
+* [`index.md`](index.html)
 
 **Note:** Consult the [**pagination**](#pagination) documentation below for instructions on how to enable it on the home page.
 
