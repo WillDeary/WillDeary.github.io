@@ -56,6 +56,21 @@ environment, without getting too distracted with life and the many things it thr
 I am a strong believer of use what time you have wisely, and really, this lockdown is the perfect time for 
 me to finish as much of Record Of Fitness as I can.
 
+Lastly, and to me most unimportant, I am a diabetic. Now you might ask, now why has he only just mentioned this! Or 
+perhaps why is he mentioning it if it's unimportant. Well the truth of it is, I just don't care that I'm 
+diabetic. I found out when i was 16 years old, which is quite late for a T1 diabetic. I will always remember finding out 
+and my Mother being more upset about it than I was, somehow she was blaming herself. Anyway, with my dream of becoming a 
+fighter pilot in the gutter (no diabetics are allowed in any of the armed forces), I refused to let diabetes ruin my 
+chances at becoming a good athlete. I was always a hard worker, so now, I would just have to work even harder and not 
+let diabetes take over my life.  
+An annoying but surprisingly useful quote: 
+> Control the controllables.
+> - insufferable people 
+
+And that was what I had to do. and I'll tell you what, it isn't easy living as a diabetic and watching what you have to 
+eat, carb counting everything you eat, dealing with high blood sugar (hyperglycemia) and low blood sugar (hypoglycemia), 
+along with the various mood swings and general inconvenience. But I guess at this point it has made me who I am today. 
+And that I would never want to change. (But if somebody could cure diabetes, please hurry up.)
 
 
 
