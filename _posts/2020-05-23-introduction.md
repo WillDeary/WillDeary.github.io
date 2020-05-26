@@ -67,7 +67,7 @@ An annoying but surprisingly useful quote:
 > Control the controllables. 
 
 And that was what I had to do. and I'll tell you what, it isn't easy living as a diabetic and watching what you have to 
-eat, carb counting everything you eat, dealing with high blood sugar (hyperglycemia) and low blood sugar (hypoglycemia), 
+eat, carb counting everything you eat, dealing with high blood sugar (hyperglycaemia) and low blood sugar (hypoglycaemia), 
 along with the various mood swings and general inconvenience. But I guess at this point it has made me who I am today. 
 And that I would never want to change. (But if somebody could cure diabetes, please hurry up.)
 
