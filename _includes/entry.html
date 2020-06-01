@@ -27,12 +27,15 @@
       {% if entry.excerpt %}
         {{ entry.excerpt | markdownify }}
       {% endif %}
+
     </div>
   {% endunless %}
   {% if site.read_time or entry.date and page.layout != 'collection' %}
+  <a href="{{ entry.url | relative_url }}" class="read-more" style="padding-top: 0">{{ site.data.text[site.locale].read_more | default: 'View Post' }}</a>
     <footer class="entry-meta">
       {% if site.read_time %}{% include read-time.html %}{% endif %}
       {% if entry.date %}{% include entry-date.html %}{% endif %}
+
     </footer>
   {% endif %}
 </article>
